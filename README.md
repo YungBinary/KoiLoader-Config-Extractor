@@ -11,4 +11,4 @@ Extract KoiLoader C2/payload
     "http://91.202.233.209/hypermetropia.php",
     "https://admiralpub.ca/wp-content/uploads/2017"
   ]
-}```
+}
